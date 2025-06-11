@@ -48,3 +48,5 @@ MGM Grand Darknet Market is a leading and trusted platform in the darknet commun
 ### Disclaimer
 
 This guide is provided for educational and informational purposes only. The content is intended to enhance understanding of darknet operations. We neither endorse nor promote illegal activities. Always adhere to the laws and regulations applicable in your jurisdiction. Explore the darknet safely and stay informed.
+
+Update:  11 June
