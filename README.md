@@ -53,4 +53,6 @@ This guide is provided for educational and informational purposes only. The cont
 
 
 
-Update:  06/16/2025
+
+
+Update: Footer URLs
