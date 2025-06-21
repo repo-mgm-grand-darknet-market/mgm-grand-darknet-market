@@ -55,4 +55,6 @@ This guide is provided for educational and informational purposes only. The cont
 
 
 
-Update: Footer URLs
+
+
+Update: url is active and clickable
