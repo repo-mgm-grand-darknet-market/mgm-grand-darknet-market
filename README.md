@@ -57,4 +57,6 @@ This guide is provided for educational and informational purposes only. The cont
 
 
 
-Update: url is active and clickable
+
+
+Update: Resource URLs
