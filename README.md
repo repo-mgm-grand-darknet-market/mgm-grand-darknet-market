@@ -59,4 +59,6 @@ This guide is provided for educational and informational purposes only. The cont
 
 
 
-Update: Resource URLs
+
+
+Update: Updated external references to current URLs
