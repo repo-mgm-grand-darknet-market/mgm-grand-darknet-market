@@ -63,4 +63,6 @@ This guide is provided for educational and informational purposes only. The cont
 
 
 
-Update: link is up and running
+
+
+Update:  04 July
