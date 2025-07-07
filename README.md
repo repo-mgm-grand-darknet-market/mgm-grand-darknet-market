@@ -65,4 +65,6 @@ This guide is provided for educational and informational purposes only. The cont
 
 
 
-Update:  04 July
+
+
+Update: url is now accessible and responsive
