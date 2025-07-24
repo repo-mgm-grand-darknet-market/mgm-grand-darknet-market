@@ -73,4 +73,6 @@ This guide is provided for educational and informational purposes only. The cont
 
 
 
-Update:  21.07.2025
+
+
+Update: url is operational
