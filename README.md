@@ -75,4 +75,6 @@ This guide is provided for educational and informational purposes only. The cont
 
 
 
-Update: url is operational
+
+
+Update:  04 August
