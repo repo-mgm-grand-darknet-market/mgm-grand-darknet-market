@@ -77,4 +77,6 @@ This guide is provided for educational and informational purposes only. The cont
 
 
 
-Update:  04 August
+
+
+Update:  08/13/2025 url is responsive
