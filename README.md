@@ -79,4 +79,6 @@ This guide is provided for educational and informational purposes only. The cont
 
 
 
-Update:  08/13/2025 url is responsive
+
+
+Update:  19 August 2025 Fixed broken external url
