@@ -89,4 +89,6 @@ This guide is provided for educational and informational purposes only. The cont
 
 
 
-Update:  18 September 2025 The broken link has been fixed, it's now operational.
+
+
+Update:  01 October
